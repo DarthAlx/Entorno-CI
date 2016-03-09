@@ -1,0 +1,253 @@
+<!--acordeon-->
+            <div class="twelve columns col-md-12">
+                <div aria-multiselectable="true" role="tablist" id="accordion" class="panel-group">
+                    <div class="panel panel-default" style="width: 600px;">
+                        <div id="heading1" role="tab" class="panel-heading" style="color: #333; background-color: rgb(219, 150, 0); border-color: #ddd;">
+                            <h4 class="panel-title"><a aria-controls="collapse1" aria-expanded="true" href="#collapse1" data-parent="#accordion" data-toggle="collapse" role="button"> <img src="/img/PQ1.png" style="height: 71.8px; width: 500px;"></a></h4> </div>
+                        <div aria-labelledby="heading1" role="tabpanel" class="panel-collapse collapse" id="collapse1">
+                            <div style="font-size: 16px;" class="panel-body">
+                                <ul style="list-style-type: circle; margin-left: 15px;">
+                                    <li>Aseo general en recámaras, sacudido y aspirado con tendido y cambio de ropa de cama.</li>
+                                    <li>Aseo general en baños, tinas y lavabos. Incluye puertas de vidrio y espejos</li>
+                                    <li>Aseo general en cocina, barrido y trapeado, con el tratamiento adecuado para el piso. Incluye limpieza en estufa, extractor,
+                                        estantería y refrigerador (únicamente en superficies).</li>
+                                    <li>Limpieza en sala y comedor, sacudido, aspirado, limpieza de mesa de comedor, sillas, aspirado o barrido y trapeado,
+                                        según sea el caso.</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <table class="table table-hover">
+                                    <tbody>
+                                        <tr>
+                                            <td><strong style="color: rgb(219, 150, 0);">Características del departamento&nbsp;</strong> </td>
+                                            <td><strong style="color: rgb(219, 150, 0);">Costo por servicio&nbsp;</strong> </td>
+                                            <td><strong style="color: rgb(219, 150, 0);">25 % dcto. en programación semanal&nbsp;</strong> </td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>55 - 90 m<sup>2</sup>; </strong><strong>2 recámaras, 2 baños</strong><strong>&nbsp;</strong><strong>&nbsp;</strong>                                                </td>
+                                            <td>$ 499.00</td>
+                                            <td>$ 375.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>100 - 125 m<sup>2</sup>; </strong><strong>3 recámaras, 2 baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 599.00</td>
+                                            <td>$ 450.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>130 - 185 m<sup>2</sup>; </strong><strong>3 recámaras, 2½ baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 649.00</td>
+                                            <td>$ 485.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>185 m<sup>2</sup>a 210 m<sup>2</sup></strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 750.00</td>
+                                            <td>$ 560.00</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <br />
+                                <p>&nbsp;</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default" style="width: 600px;">
+                        <div id="heading2" role="tab" class="panel-heading" style="background-color: rgb(112, 168, 59);">
+                            <h4 class="panel-title"><a aria-controls="collapse2" aria-expanded="false" href="#collapse2" data-parent="#accordion" data-toggle="collapse" role="button" class="collapsed"> <img src="/img/PQ2.png" style="height: 71.8px; width: 405px;"></a></h4> </div>
+                        <div aria-labelledby="heading2" role="tabpanel" class="panel-collapse collapse" id="collapse2">
+                            <div class="panel-body">
+                                <ul style="list-style-type: circle; margin-left: 15px;">
+                                    <li>Lavado de sala, en caso de requerirlo (de tela; máximo 6 cojines).</li>
+                                    <li>Limpieza profunda en pisos o bien, lavado de alfombras.</li>
+                                    <li>Baños, Cocina, sala y comedor.</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                                <p>&nbsp;</p>
+                                <table class="table table-hover">
+                                    <tbody>
+                                        <tr>
+                                            <td><strong style="color: rgb(112, 168, 59);">Características del departamento&nbsp;</strong> </td>
+                                            <td><strong style="color: rgb(112, 168, 59);">Costo por servicio&nbsp;</strong> </td>
+                                            <td><strong style="color: rgb(112, 168, 59);">25 % dcto. en programación semanal&nbsp;</strong> </td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>55 - 90 m<sup>2</sup>; </strong><strong>2 recámaras, 2 baños</strong><strong>&nbsp;</strong><strong>&nbsp;</strong>                                                </td>
+                                            <td>$ 499.00</td>
+                                            <td>$ 375.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>100 - 125 m<sup>2</sup>; </strong><strong>3 recámaras, 2 baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 599.00</td>
+                                            <td>$ 450.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>130 - 185 m<sup>2</sup>; </strong><strong>3 recámaras, 2½ baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 649.00</td>
+                                            <td>$ 485.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>185 m<sup>2</sup>a 210 m<sup>2</sup></strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 750.00</td>
+                                            <td>$ 560.00</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <br />
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default" style="width: 600px;">
+                        <div id="heading3" role="tab" class="panel-heading" style="background-color: rgb(118, 170, 219);">
+                            <h4 class="panel-title"><a aria-controls="collapse3" aria-expanded="false" href="#collapse3" data-parent="#accordion" data-toggle="collapse" role="button" class="collapsed"> <img src="/img/PQ3.png" style="height: 71.8px; width: 500px;"></a></h4> </div>
+                        <div aria-labelledby="heading3" role="tabpanel" class="panel-collapse collapse" id="collapse3">
+                            <div class="panel-body"> <span>Si te vas a cambiar de departamento o vas a rentar una casa, contrata la limpieza previa a la ocupación. Con este paquete, sólo preocúpate de tu mundanza, nosotros hacemos la limpieza. Nuestra Ama de Llaves te visitará para determinar el servicio de acuerdo a tus necesidades.</span>
+                                <ul style="list-style-type: circle; margin-left: 15px;">
+                                    <li>Limpieza de pisos y zoclos.</li>
+                                    <li>Sacudido de closets y cocina.</li>
+                                    <li>Lavado de cristales.</li>
+                                    <li>Lavado de baños.</li>
+                                    <li>Aspirado de alfombras (en caso de haber) o bien, limpieza en pisos.</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                                <p>&nbsp;</p>
+                                <table class="table table-hover">
+                                    <tbody>
+                                        <tr>
+                                            <td><strong style="color: #76AADB;">Características del departamento&nbsp;</strong> </td>
+                                            <td><strong style="color: #76AADB;">Costo por servicio&nbsp;</strong> </td>
+                                            <td><strong style="color: #76AADB;">25 % dcto. en programación semanal&nbsp;</strong> </td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>55 - 90 m<sup>2</sup>; </strong><strong>2 recámaras, 2 baños</strong><strong>&nbsp;</strong><strong>&nbsp;</strong>                                                </td>
+                                            <td>$ 499.00</td>
+                                            <td>$ 375.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>100 - 125 m<sup>2</sup>; </strong><strong>3 recámaras, 2 baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 599.00</td>
+                                            <td>$ 450.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>130 - 185 m<sup>2</sup>; </strong><strong>3 recámaras, 2½ baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 649.00</td>
+                                            <td>$ 485.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>185 m<sup>2</sup>a 210 m<sup>2</sup></strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 750.00</td>
+                                            <td>$ 560.00</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <br />
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default" style="width: 600px;">
+                        <div class="panel-heading" role="tab" id="heading4" style="background-color: rgb(0, 46, 130);">
+                            <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4"> <img src="/img/PQ4.png" style="height: 71.8px; width: 393px;"></a></h4> </div>
+                        <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+                            <div class="panel-body"> <span>El supervisor te visitará para hacer una cotización.</span>
+                                <ul style="list-style-type: circle; margin-left: 15px;">
+                                    <li>Recámaras</li>
+                                    <li>Baños</li>
+                                    <li>Cocina</li>
+                                    <li>Comedor</li>
+                                    <li>Patios</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                                <p>&nbsp;</p>
+                                <table class="table table-hover">
+                                    <tbody>
+                                        <tr>
+                                            <td><strong style="color: #002E82;">Características del departamento&nbsp;</strong> </td>
+                                            <td><strong style="color: #002E82;">Costo por servicio&nbsp;</strong> </td>
+                                            <td><strong style="color: #002E82;">25 % dcto. en programación semanal&nbsp;</strong> </td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>55 - 90 m<sup>2</sup>; </strong><strong>2 recámaras, 2 baños</strong><strong>&nbsp;</strong><strong>&nbsp;</strong>                                                </td>
+                                            <td>$ 499.00</td>
+                                            <td>$ 375.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>100 - 125 m<sup>2</sup>; </strong><strong>3 recámaras, 2 baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 599.00</td>
+                                            <td>$ 450.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>130 - 185 m<sup>2</sup>; </strong><strong>3 recámaras, 2½ baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 649.00</td>
+                                            <td>$ 485.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>185 m<sup>2</sup>a 210 m<sup>2</sup></strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 750.00</td>
+                                            <td>$ 560.00</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <br />
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default" style="width: 600px;">
+                        <div class="panel-heading" role="tab" id="heading5" style="background-color: rgb(133, 14, 91);">
+                            <h4 class="panel-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5"> <img src="/img/PQ5.png" style="height: 71.8px; width: 182px;"></a></h4> </div>
+                        <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+                            <div class="panel-body"> <span>Limpia tu departamento antes o después de tener una fiesta.</span>
+                                <ul style="list-style-type: circle; margin-left: 15px;">
+                                    <li>Lavado de baños a fondo (eliminando sarro y jabón pegado).</li>
+                                    <li>Lavado de cocina a fondo.</li>
+                                    <li>Se mueven los muebles para lavado de piso y se vuelven a acomodar.</li>
+                                    <li>Sacudido y aspirado de muebles.</li>
+                                    <li>Sacudido mobiliario en general.</li>
+                                    <li>Limpieza de paredes.</li>
+                                    <li>Lavado de pisos.</li>
+                                </ul>
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                                <p>&nbsp;</p>
+                                <table class="table table-hover">
+                                    <tbody>
+                                        <tr>
+                                            <td><strong style="color: #850E5B;">Características del departamento&nbsp;</strong> </td>
+                                            <td><strong style="color: #850E5B;">Costo por servicio&nbsp;</strong> </td>
+                                            <td><strong style="color: #850E5B;">25 % dcto. en programación semanal&nbsp;</strong> </td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>55 - 90 m<sup>2</sup>; </strong><strong>2 recámaras, 2 baños</strong><strong>&nbsp;</strong><strong>&nbsp;</strong>                                                </td>
+                                            <td>$ 499.00</td>
+                                            <td>$ 375.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>100 - 125 m<sup>2</sup>; </strong><strong>3 recámaras, 2 baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 599.00</td>
+                                            <td>$ 450.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>130 - 185 m<sup>2</sup>; </strong><strong>3 recámaras, 2½ baños</strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 649.00</td>
+                                            <td>$ 485.00</td>
+                                        </tr>
+                                        <tr>
+                                            <td><strong>185 m<sup>2</sup>a 210 m<sup>2</sup></strong><strong>&nbsp;</strong> </td>
+                                            <td>$ 750.00</td>
+                                            <td>$ 560.00</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <br />
+                                <p>&nbsp;</p>
+                                <ul style="list-style-type: circle; margin-left: 15px;"> </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--fin acordeon-->

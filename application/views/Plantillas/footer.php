@@ -44,6 +44,8 @@
 <!--common scripts for all pages-->
 <script src="<?=base_url();?>js/scripts.js"></script>
 
+<script type="text/javascript" src="js/ckeditor/ckeditor.js"></script>
+
 
 </body>
 </html>
